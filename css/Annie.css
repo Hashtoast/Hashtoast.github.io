@@ -3730,3 +3730,10 @@ blockquote footer cite:before {
     display: none;
   }
 }
+body {
+  background: url("/img/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
