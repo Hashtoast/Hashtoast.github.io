@@ -3731,7 +3731,7 @@ blockquote footer cite:before {
   }
 }
 body {
-  background: url("/img/cart_cover.jpg");
+  background: url("/img/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
